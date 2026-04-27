@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+mlruns/
+models/*.pkl
+models/*.npy
+models/metrics.json
+data/raw/
+*.egg-info/
+.ipynb_checkpoints/
