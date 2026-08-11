@@ -1,0 +1,7 @@
+{
+  "roc_auc": 0.7166,
+  "precision": 0.3976,
+  "recall": 0.6417,
+  "f1": 0.491,
+  "threshold": 0.3
+}
