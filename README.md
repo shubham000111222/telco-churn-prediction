@@ -1,4 +1,4 @@
-# Customer Churn Prediction Engine
+# Telco Customer Churn Prediction Engine
 
 > XGBoost + LightGBM ensemble with SHAP explainability, served via FastAPI.  
 > Built on the **IBM Telco Customer Churn dataset** (7,043 real customer records).

@@ -35,7 +35,7 @@ THRESHOLD = metrics.get("threshold", 0.30)
 
 # ── Header ────────────────────────────────────────────────────────────────────
 
-st.title("📊 Customer Churn Prediction")
+st.title("📊 Telco Customer Churn Prediction")
 st.caption(
     "XGBoost + LightGBM ensemble | IBM Telco Dataset (7,043 customers) | "
     f"ROC-AUC: **{metrics['roc_auc']}** | Threshold: **{THRESHOLD}**"

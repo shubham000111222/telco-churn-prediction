@@ -33,8 +33,8 @@ except Exception as e:
     LOAD_ERROR     = str(e)
 
 app = FastAPI(
-    title="Churn Prediction API",
-    description="XGBoost + LightGBM ensemble for customer churn prediction with SHAP explainability.",
+    title="Telco Churn Prediction API",
+    description="XGBoost + LightGBM ensemble for telco customer churn prediction with SHAP explainability.",
     version="1.0.0",
 )
 
